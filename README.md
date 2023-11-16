@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zaid</h1>
+[![MasterHead](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)](https://rishavchanda.io)
+
+<h1 align="center">Hi, I'm Muhammad Zaid<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 align="center">A passionate flutter, Android and .Net developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaidali818&label=Profile%20views&color=0e75b6&style=flat" alt="zaidali818" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zaidali818&label=Profile%20views&color=0e75b6&style=flat" alt="zaidali818" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaidali818" alt="zaidali818" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaidali818" alt="zaidali818" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zaidali818](https://github.com/Zaidali818)
 
